@@ -114,5 +114,6 @@ python tensorflow_infer.py  --img-path /path/to/your/img
 
 
 
-
+ pip install opencv-python
+ pip install image
 
